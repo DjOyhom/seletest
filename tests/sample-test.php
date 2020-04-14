@@ -4,7 +4,7 @@ require_once('vendor/autoload.php');
 use Facebook\WebDriver\Remote\RemoteWebDriver;
 use Facebook\WebDriver\WebDriverBy;
 
-$selenium_server = "http://hub-devbox-drupal-test-cicd.paas.red.uy/";
+$selenium_server = "http://selenium-node-chrome-devbox-drupal-test-cicd.paas.red.uy/";
 $test_url = "http://drupal-devbox-drupal-test-test.paas.red.uy/";
 
 echo "---------------------------";
