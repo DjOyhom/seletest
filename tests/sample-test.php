@@ -1,6 +1,6 @@
 <?php
 
-require_once('../../vendor/autoload.php');
+require_once('/vendor/autoload.php');
 use Facebook\WebDriver\Remote\RemoteWebDriver;
 use Facebook\WebDriver\WebDriverBy;
 
