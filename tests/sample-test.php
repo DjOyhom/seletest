@@ -49,8 +49,8 @@ echo "---------------------------";
 
 try {
     if ($element_username && $element_pass) {
-        $element_username->sendKeys("admin");
-        $element_pass->sendKeys("admin");
+        $element_username->sendKeys("devbox");
+        $element_pass->sendKeys("devbox2020");
 
         $element_submit->submit();
     }
